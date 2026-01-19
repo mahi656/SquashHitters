@@ -2,4 +2,5 @@ function name(){
   console.log("module loaded");  
 }
 let age=25
-export{name,age}
+const a=1
+export{name,age,a}
