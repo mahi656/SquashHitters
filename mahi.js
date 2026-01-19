@@ -4,4 +4,6 @@ function name(){
 let age=25
 const a=1
 let b='spruha'
-export{name,age,a,b}
+let name2='divya'
+let d='g'
+export{name,age,a,b,name2,d}
